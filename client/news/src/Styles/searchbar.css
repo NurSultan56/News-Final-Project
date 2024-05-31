@@ -1,0 +1,11 @@
+.searchbar_container input {
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 7px;
+}
+
+.searchbar_container button {
+    padding: 5px 10px;
+    border-radius: 7px;
+    margin-left: 5px;
+}
